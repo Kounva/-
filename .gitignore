@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pyre
+*.pytype/
+
+# 编译文件和打包文件
+*.egg-info/
+*.egg
+dist/
+build/
+*.so
+
+# 日志和数据库
+*.log
+*.sqlite
+*.sqlite3
+
+# 开发环境
+.venv/
+env/
+venv/
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~
+~$*
+
+# 测试相关
+.coverage
+htmlcov/
+.pytest_cache/
+
+#我不会弄这个 别看了 这都是AI生成的
